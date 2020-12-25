@@ -1,7 +1,7 @@
 # Something something ...
 
 
-Dark side
+Dark side. Here is a reference on how to [contribute](CONTRIBUTING.md)
 
 
 # Let's try this
